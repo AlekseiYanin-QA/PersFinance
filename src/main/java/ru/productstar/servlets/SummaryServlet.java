@@ -25,6 +25,7 @@ public class SummaryServlet extends HttpServlet {
         context.log("[SummaryServlet] Init");
     }
 
+
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         var context = req.getServletContext();
