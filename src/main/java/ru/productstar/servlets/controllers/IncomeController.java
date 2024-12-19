@@ -45,7 +45,7 @@ public class IncomeController extends HttpServlet {
 
             context.setAttribute("transactions", transactions);
             context.setAttribute("freeMoney", freeMoney);
-            resp.getWriter().println("Income was added");
+            resp.sendRedirect(req.getContextPath() + "/summary"); // Перенаправление на summary
         } catch (NumberFormatException e) {
             resp.getWriter().println("Invalid amount parameter provided.");
         }
