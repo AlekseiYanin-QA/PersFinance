@@ -1,7 +1,9 @@
 ru\productstar\servlets\SummaryServlet.class
+ru\productstar\servlets\listeners\GlobalExceptionLogger.class
 ru\productstar\servlets\ExpensesServlet.class
 ru\productstar\servlets\filters\ExpensesFilter.class
 ru\productstar\servlets\LoginServlet.class
 ru\productstar\servlets\DetailsServlet.class
 ru\productstar\servlets\listeners\LogAttributeChanges.class
 ru\productstar\servlets\model\Transaction.class
+ru\productstar\servlets\exception\ErrorHandlerServlet.class
