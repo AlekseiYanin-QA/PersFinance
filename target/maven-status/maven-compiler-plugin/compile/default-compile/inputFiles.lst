@@ -1,7 +1,9 @@
 C:\Users\aleya\IdeaProjects\PersFinance\src\main\java\ru\productstar\servlets\controllers\IncomeController.java
 C:\Users\aleya\IdeaProjects\PersFinance\src\main\java\ru\productstar\servlets\DetailsServlet.java
+C:\Users\aleya\IdeaProjects\PersFinance\src\main\java\ru\productstar\servlets\exception\ErrorHandlerServlet.java
 C:\Users\aleya\IdeaProjects\PersFinance\src\main\java\ru\productstar\servlets\ExpensesServlet.java
 C:\Users\aleya\IdeaProjects\PersFinance\src\main\java\ru\productstar\servlets\filters\ExpensesFilter.java
+C:\Users\aleya\IdeaProjects\PersFinance\src\main\java\ru\productstar\servlets\listeners\GlobalExceptionLogger.java
 C:\Users\aleya\IdeaProjects\PersFinance\src\main\java\ru\productstar\servlets\listeners\LogAttributeChanges.java
 C:\Users\aleya\IdeaProjects\PersFinance\src\main\java\ru\productstar\servlets\LoginServlet.java
 C:\Users\aleya\IdeaProjects\PersFinance\src\main\java\ru\productstar\servlets\model\Transaction.java
