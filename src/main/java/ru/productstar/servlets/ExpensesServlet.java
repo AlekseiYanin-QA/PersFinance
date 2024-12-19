@@ -35,6 +35,7 @@ public class ExpensesServlet extends HttpServlet {
 
         context.setAttribute("transactions", transactions);
         context.setAttribute("freeMoney", freeMoney);
-        resp.getWriter().println("Expenses were added");
+        resp.sendRedirect(req.getContextPath() + "/summary"); // Перенаправление на summary
     }
+
 }
